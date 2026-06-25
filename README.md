@@ -1,10 +1,6 @@
 <!-- Header -->
 <div align="center">
-
-# Hi there, I'm Bulan! 🍅
-
-### Civil Engineer → Software Developer
-*Memamyu Hayuning Bawana, Ambrasta Dur Angkara!* ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e53935&height=200&section=header&text=Hi%20there%2C%20I'm%20Bulan!%20🍅&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Civil%20Engineer%20%E2%86%92%20Software%20Developer&descAlignY=58&descColor=ffffff"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bulanaura)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bulanarts)
@@ -20,7 +16,7 @@
 
 I'm a Civil Engineer actively pivoting into Software Development. I view coding through an engineering lens — focusing on **blueprint design**, **strong system foundations**, and **reliable data architecture**.
 
-> *"Every great app, like every great building, starts with a solid blueprint."* 🏗️
+> * Memayu Hayuning Bawana Ambrasta Dur Angkara."* 🏗️
 
 ---
 
