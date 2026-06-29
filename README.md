@@ -70,10 +70,3 @@ I'm a multi-passionate creator! Beyond coding, I dive into:
 `📚 Book Reading` `🎨 DIY Crafting` `✏️ Graphic Design`
 `🎬 Motion Design` `📷 Photography` `🍳 Cooking` `✍️ Writing`
 
----
-
-<div align="center">
-
-*Semangat!* 🏗️✨
-
-</div>
